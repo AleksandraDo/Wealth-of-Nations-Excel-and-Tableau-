@@ -22,8 +22,7 @@ Ever wondered how the wealth of nations stacks up? 💰 In this project, I dove 
 - 🧭 **Economic Trends**: Discover global GDP changes and patterns.  
 - 🌎 **Regional Comparisons**: Dive into wealth disparities and population insights.  
 - 🔍 **Key Indicators**: Uncover what drives wealth in different nations.  
-
-![Sample Visualization](https://via.placeholder.com/800x400?text=Insert+Visualization+Image+Here)  
+ 
 ![image](https://github.com/user-attachments/assets/4ef18ca7-6f23-4415-9bd6-c4d7a3e8dc2f)
 
 ---
